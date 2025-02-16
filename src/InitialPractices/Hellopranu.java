@@ -1,4 +1,4 @@
-package ex001_sample;
+package InitialPractices;
 
 public class Hellopranu {
     public static void main(String[] args) {
