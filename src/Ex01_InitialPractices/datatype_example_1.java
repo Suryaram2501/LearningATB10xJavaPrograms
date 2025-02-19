@@ -1,4 +1,4 @@
-package InitialPractices;
+package Ex01_InitialPractices;
 
 public class datatype_example_1 {
     public static void main(String[] args) {

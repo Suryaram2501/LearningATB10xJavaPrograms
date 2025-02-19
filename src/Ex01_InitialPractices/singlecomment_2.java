@@ -1,4 +1,4 @@
-package InitialPractices;
+package Ex01_InitialPractices;
 
 public class singlecomment_2 {
     public static void main(String[] args) {
