@@ -1,6 +1,6 @@
-package Task_Jan19_part1;
+package Ex02_OperatorsAndLoops;
 
-public class Pgm1_Gradecalculation_using_ifelse {
+public class Pgm002_Gradecalculation_using_ifelse {
     public static void main(String[] args) {
         int marks = 99;
         if((marks >= 90) && (marks <= 100))

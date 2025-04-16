@@ -1,6 +1,6 @@
-package Task_Jan19_part2;
+package Ex03_OperatorsAndCLI;
 
-public class Pgm5_maxOfThreeNumbers_using_CLI {
+public class Pgm006_maxOfThreeNumbers_using_CLI {
     public static void main(String[] args) {
         int n1 = Integer.parseInt(args[0]);
         int n2 = Integer.parseInt(args[1]);

@@ -1,6 +1,6 @@
-package Task_Jan11;
+package Ex04_PrintTableUsingPrintf;
 
-public class Lab001_printf_table9 {
+public class Pgm001_printf_table9 {
     public static void main(String[] args) {
         int num = 9;
         System.out.printf("%d*1=%d",num,num*1).println();

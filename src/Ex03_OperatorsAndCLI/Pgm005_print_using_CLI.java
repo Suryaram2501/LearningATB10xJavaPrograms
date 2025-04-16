@@ -1,6 +1,6 @@
-package Task_Jan19_part2;
+package Ex03_OperatorsAndCLI;
 
-public class Pgm4_print_using_CLI {
+public class Pgm005_print_using_CLI {
     public static void main(String[] args) {
         String name = args[0];
         String age = args[1];

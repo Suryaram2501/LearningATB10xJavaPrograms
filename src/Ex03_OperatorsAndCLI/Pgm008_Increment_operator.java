@@ -1,6 +1,6 @@
-package Task_Jan19_part2;
+package Ex03_OperatorsAndCLI;
 
-public class Pgm2_Increment_operator {
+public class Pgm008_Increment_operator {
     public static void main(String[] args) {
         int a=10;
         System.out.println("a++  = " + a++);

@@ -1,6 +1,6 @@
-package Task_Jan19_part1;
+package Ex02_OperatorsAndLoops;
 
-public class Pgm2_Gradecalculation_using_ternary {
+public class Pgm003_Gradecalculation_using_ternary {
     public static void main(String[] args) {
         int marks = 77;
         System.out.printf("Pranav has scored %d percent and his ", marks);

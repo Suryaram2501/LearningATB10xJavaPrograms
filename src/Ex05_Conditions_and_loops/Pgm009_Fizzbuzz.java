@@ -1,6 +1,6 @@
-package EX05_Conditions_and_loops;
+package Ex05_Conditions_and_loops;
 
-public class Pgm9_Fizzbuzz {
+public class Pgm009_Fizzbuzz {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 100; i++) {
