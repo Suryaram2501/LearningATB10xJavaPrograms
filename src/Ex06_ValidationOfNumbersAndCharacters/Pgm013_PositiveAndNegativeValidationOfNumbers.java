@@ -2,7 +2,7 @@ package Ex06_ValidationOfNumbersAndCharacters;
 
 import java.util.Scanner;
 
-public class Pgm011_PositiveAndNegativeValidationOfNumbers {
+public class Pgm013_PositiveAndNegativeValidationOfNumbers {
     public static void main(String[] args) {
         int a;
         System.out.println("Enter the integer");
